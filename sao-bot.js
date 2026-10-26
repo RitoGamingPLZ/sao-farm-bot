@@ -33,7 +33,7 @@ const CONFIG = {
   //   'level'  = quests + story + grinding       (section "level" below)
   //   'farm'   = farm boss drops                 (section "farm" below)
   //   'none'   = install only; start later with __bot.start('level') etc.
-  autostart: 'none',
+  autostart: 'secret',
 
   // Stop the page from reloading itself when the server pushes an update.
   // A reload removes the bot, so leave this on.
