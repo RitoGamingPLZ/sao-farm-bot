@@ -58,7 +58,7 @@ const CONFIG = {
     boss: { teleportAt: 0.20, emergencyAt: 0.40, potionAt: 0.70 },
 
     // 'crystal' mode: use a full-heal crystal below this HP fraction.
-    crystalAt: 0.10,
+    crystalAt: 0.20,
 
     // After a teleport, wait up to this long for HP to reach `resumeAt` before going back out.
     afterTeleportWaitMs: 60 * 1000,
