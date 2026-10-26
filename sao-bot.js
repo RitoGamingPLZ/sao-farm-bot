@@ -50,12 +50,12 @@ const CONFIG = {
     // 'off'     - the bot never heals you.
     mode: 'auto',
 
-    // HP fractions (0.25 = 25 %) used by 'bot' mode during normal fights.
-    teleportAt: 0.10,   // use a teleport crystal
-    emergencyAt: 0.20,  // use the instant emergency heal
-    potionAt: 0.25,     // drink a potion
+    // HP fractions (0.50 = 50 %) used by 'bot' mode during normal fights.
+    teleportAt: 0.20,   // use a teleport crystal
+    emergencyAt: 0.40,  // use the instant emergency heal
+    potionAt: 0.50,     // drink a potion
     // Same thing but during boss fights.
-    boss: { teleportAt: 0.10, emergencyAt: 0.20, potionAt: 0.35 },
+    boss: { teleportAt: 0.20, emergencyAt: 0.40, potionAt: 0.70 },
 
     // 'crystal' mode: use a full-heal crystal below this HP fraction.
     crystalAt: 0.10,
