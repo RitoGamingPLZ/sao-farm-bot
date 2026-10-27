@@ -1,5 +1,6 @@
 # SAO 掛機腳本（Snored Art Online）
 
+作者掛了3天40層秘境都沒事, 請安心享用。
 在瀏覽器 Console 執行的 **Snored Art Online**（`dev-sao.potato-proxy.com`）掛機腳本。
 它透過遊戲網頁本身的連線，送出跟按鈕一樣的指令，所以**不用安裝任何東西**。
 
